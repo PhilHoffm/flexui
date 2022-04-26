@@ -1,0 +1,10 @@
+{
+"UI.SETTINGS.DISABLE_STYLES": "Deaktiviere Flex UI",
+"UI.SETTINGS.DISABLE_STYLES_HINT": "Client-Einstellung, jeder Spieler kann Stile für seine Benutzeroberfläche deaktivieren. NICHT deaktivieren, es sei denn, die kompakte Benutzeroberfläche (unten) ist aktiviert!",
+"UI.SETTINGS.SMALLUI": "Verwende kleineres, kompaktes UI",
+"UI.SETTINGS.SMALLUI_HINT": "Macht viele Elemente kleiner",
+"UI.SETTINGS.FONTSIZE": "Schriftgrösse",
+"UI.SETTINGS.FONTSIZE_HINT": "Kleine, mittlere oder grosse Schrift",
+"UI.SETTINGS.THEME": "UI Thema",
+"UI.SETTINGS.THEME_HINT": "Wähle ein Motiv für dein UI"
+}
